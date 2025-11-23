@@ -18,14 +18,14 @@ Hola, soy **Smit**, principiante en la programación  alguien que disfruta crear
     hasta shooters donde intento no morir en 2 segundos, pasando por mundos abiertos  
     donde termino explorando más que siguiendo la historia.
   </span>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3h3YzNlNWp3YzBoeWRwemJpb2Z2dzRwbG9qaW9heW94ejE3ZjNieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FHJBd7YY5HDH7qvmhl/giphy.gif" alt="games" width="70" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3h3YzNlNWp3YzBoeWRwemJpb2Z2dzRwbG9qaW9heW94ejE3ZjNieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FHJBd7YY5HDH7qvmhl/giphy.gif" alt="games" width="50" />
 </div>
 
 <div style="display: flex; align-items: center;">
 <span>
     Me gustan las historias con una narrativa que te deja pensando incluso después de terminar, no importa si es un shonen explosivo, un seinen profundo o una historia corta pero intensa; mientras tenga personajes que crezcan y un mundo bien construido, me engancha.
   </span>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTEyNWd6b2UzNzB3NHBxdHFjdXRtcnh0ZnU4cHZubTUyNmNtb2VybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eg4qEEqvzreOIekjYx/giphy.gif" alt="anime" width="70" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTEyNWd6b2UzNzB3NHBxdHFjdXRtcnh0ZnU4cHZubTUyNmNtb2VybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eg4qEEqvzreOIekjYx/giphy.gif" alt="anime" width="50" />
 </div>
 
 <div style="display: flex; align-items: center;">
@@ -34,14 +34,14 @@ Hola, soy **Smit**, principiante en la programación  alguien que disfruta crear
     La música es ese acompañante perfecto mientras programo, juego o simplemente me relajo.  
     Siempre estoy descubriendo canciones nuevas o playlists raras que encajan perfecto con lo que estoy haciendo en el momento.
   </span>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWM2aTV5bDNpcHM5MWNzbWJxaWxrZThmb2JldHl0c2RqNnFmZ3diYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4oMoIbIQrvCjm/giphy.gif" alt="musica" width="70" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWM2aTV5bDNpcHM5MWNzbWJxaWxrZThmb2JldHl0c2RqNnFmZ3diYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4oMoIbIQrvCjm/giphy.gif" alt="musica" width="50" />
 </div>
 
 <div style="display: flex; align-items: center;">
 <span>
     Soy alguien bastante relajado y disfruto mucho conversar, compartir curiosidades o simplemente escuchar lo que otros tienen que decir y me gusta crear un ambiente cómodo, donde las personas puedan ser ellas mismas sin sentirse juzgadas.  
   </span>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm41NHJzaGQxeGdreDNncGxtaHhkZGJ3YXpuZHJjdXI0YWRjbzcwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rrnRP1togZVlK/giphy.gif" alt="musica" width="70" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm41NHJzaGQxeGdreDNncGxtaHhkZGJ3YXpuZHJjdXI0YWRjbzcwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rrnRP1togZVlK/giphy.gif" alt="musica" width="50" />
 </div>
 
 ## 🛠️ Tecnologías que uso
