@@ -176,7 +176,7 @@ No sirve de nada, pero a poco no se ve chido :v
   <a href="https://x.com/Smit_BZ_20" target="_blank" style="margin: 10px;">
     <img src="logos/twitter.svg" width="50px" alt="Twitter">
   </a>
-  <a href="www.linkedin.com/in/roberth-smit-bocanegra-zurita-a5345a287" target="_blank" style="margin: 10px;">
+  <a href="www.linkedin.com/in/smitbz" target="_blank" style="margin: 10px;">
     <img src="logos/linkedin-icon.svg" width="50px" alt="linkdin">
   </a>
   <a href="https://www.reddit.com/user/SmitBZ/" target="_blank" style="margin: 10px;">
