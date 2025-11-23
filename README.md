@@ -18,14 +18,14 @@ Hola, soy **Smit**, principiante en la programación  alguien que disfruta crear
     hasta shooters donde intento no morir en 2 segundos, pasando por mundos abiertos  
     donde termino explorando más que siguiendo la historia.
   </span>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3h3YzNlNWp3YzBoeWRwemJpb2Z2dzRwbG9qaW9heW94ejE3ZjNieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FHJBd7YY5HDH7qvmhl/giphy.gif" alt="games" width="90" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3h3YzNlNWp3YzBoeWRwemJpb2Z2dzRwbG9qaW9heW94ejE3ZjNieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FHJBd7YY5HDH7qvmhl/giphy.gif" alt="games" width="70" />
 </div>
 
 <div style="display: flex; align-items: center;">
 <span>
     Me gustan las historias con una narrativa que te deja pensando incluso después de terminar, no importa si es un shonen explosivo, un seinen profundo o una historia corta pero intensa; mientras tenga personajes que crezcan y un mundo bien construido, me engancha.
   </span>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTEyNWd6b2UzNzB3NHBxdHFjdXRtcnh0ZnU4cHZubTUyNmNtb2VybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eg4qEEqvzreOIekjYx/giphy.gif" alt="anime" width="100" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTEyNWd6b2UzNzB3NHBxdHFjdXRtcnh0ZnU4cHZubTUyNmNtb2VybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eg4qEEqvzreOIekjYx/giphy.gif" alt="anime" width="70" />
 </div>
 
 <div style="display: flex; align-items: center;">
@@ -34,17 +34,15 @@ Hola, soy **Smit**, principiante en la programación  alguien que disfruta crear
     La música es ese acompañante perfecto mientras programo, juego o simplemente me relajo.  
     Siempre estoy descubriendo canciones nuevas o playlists raras que encajan perfecto con lo que estoy haciendo en el momento.
   </span>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWM2aTV5bDNpcHM5MWNzbWJxaWxrZThmb2JldHl0c2RqNnFmZ3diYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4oMoIbIQrvCjm/giphy.gif" alt="musica" width="90" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWM2aTV5bDNpcHM5MWNzbWJxaWxrZThmb2JldHl0c2RqNnFmZ3diYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4oMoIbIQrvCjm/giphy.gif" alt="musica" width="70" />
 </div>
 
 <div style="display: flex; align-items: center;">
 <span>
     Soy alguien bastante relajado y disfruto mucho conversar, compartir curiosidades o simplemente escuchar lo que otros tienen que decir y me gusta crear un ambiente cómodo, donde las personas puedan ser ellas mismas sin sentirse juzgadas.  
   </span>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm41NHJzaGQxeGdreDNncGxtaHhkZGJ3YXpuZHJjdXI0YWRjbzcwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rrnRP1togZVlK/giphy.gif" alt="musica" width="100" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm41NHJzaGQxeGdreDNncGxtaHhkZGJ3YXpuZHJjdXI0YWRjbzcwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rrnRP1togZVlK/giphy.gif" alt="musica" width="70" />
 </div>
-
-## 🌐 Redes sociales
 
 ## 🛠️ Tecnologías que uso
 
@@ -127,15 +125,6 @@ No sirve de nada, pero a poco no se ve chido :v
   </a>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🚀 Proyectos
-
-Aquí iré mostrando los proyectos que voy desarrollando, desde ideas pequeñas hasta cosas más serias.
-
-
-![Smit GitHub stats](https://github-readme-stats.vercel.app/api?username=SmitBZ&show_icons=true&theme=radical)
-
 ### 🚀 Proyectos Destacados
 
 <br>
@@ -180,3 +169,17 @@ Aquí iré mostrando los proyectos que voy desarrollando, desde ideas pequeñas 
 ### 🗓️ Mi Actividad de Commits
 
 [![SmitBZ Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=SmitBZ&theme=react-dark)](https://github.com/SmitBZ)
+
+
+## 🌐 Redes sociales
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <a href="https://x.com/Smit_BZ_20" target="_blank" style="margin: 10px;">
+    <img src="logos/twitter.svg" width="50px" alt="Twitter">
+  </a>
+  <a href="www.linkedin.com/in/roberth-smit-bocanegra-zurita-a5345a287" target="_blank" style="margin: 10px;">
+    <img src="logos/linkedin-icon.svg" width="50px" alt="linkdin">
+  </a>
+  <a href="https://www.reddit.com/user/SmitBZ/" target="_blank" style="margin: 10px;">
+    <img src="logos/reddit-icon.svg" width="50px" alt="redit">
+  </a>
+</div>
