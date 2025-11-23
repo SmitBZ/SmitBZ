@@ -139,9 +139,7 @@ No sirve de nada, pero a poco no se ve chido :v
 
 ### 📌 Mis Estadísticas de GitHub
 
-[![SmitBZ GitHub Stats](https://github-readme-stats.vercel.app/api?username=SmitBZ&show_icons=true&theme=dark&rank_icon=percentile)](https://github.com/SmitBZ)
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmitBZ&layout=compact&theme=dark)](https://github.com/SmitBZ)
+[![SmitBZ GitHub Stats](https://github-readme-stats.vercel.app/api?username=SmitBZ&show_icons=true&theme=dark&rank_icon=percentile)](https://github.com/SmitBZ) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmitBZ&layout=compact&theme=dark)](https://github.com/SmitBZ)
 
 ### 🗓️ Mi Actividad de Commits
 
