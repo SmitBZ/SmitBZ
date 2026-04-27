@@ -1,160 +1,169 @@
-# 👋 ¡Hola! Bienvenido a mi perfil de GitHub
+<div align="center">
 
- <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFzbGF0cDQydzVlZmhtMWxiZTN4b2NoNnJjaDhmdmZwM2UwOWxuZCZlcD12MV9pbnRlcm5hb19naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="programming" />
-</p>
+<!-- Animated header banner via Capsule Render -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:388bfd&height=180&section=header&text=Hola,%20soy%20Smit%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Developer%20·%20Student%20·%20Gamer&descAlignY=60&descColor=a5c8ff&animation=fadeIn)
 
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Principiante+apasionado+por+el+código;Java+%7C+Web+%7C+Redes;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80;Open+to+collaborate!)](https://git.io/typing-svg)
 
+</div>
+
+---
 
 ## 🧑‍💻 Sobre mí
 
-Hola, soy **Smit**, principiante en la programación  alguien que disfruta crear, aprender cosas nuevas y meterle un poquito de pasión a cada proyecto.
+Soy **Smit**, alguien que disfruta crear, aprender cosas nuevas y meterle pasión a cada proyecto.
+Me encanta construir cosas: desde sistemas de gestión hasta apps de chat. Si tiene código, me interesa.
+
+```java
+public class Smit {
+    String[] languages  = { "Java", "JavaScript", "C++" };
+    String[] hobbies    = { "Videojuegos RPG", "Anime", "Música", "Conversar" };
+    String   status     = "Siempre aprendiendo 🚀";
+    boolean  openToWork = true;
+}
+```
+
+---
 
 ## ✨ Mis Pasatiempos
-*  Soy amante de los videojuegos, desde juegos RPG donde me pierdo horas farmeando,  
-hasta shooters donde intento no morir en 2 segundos, pasando por mundos abiertos donde termino explorando más que siguiendo la historia.
 
-*  Me gustan las historias con una narrativa que te deja pensando incluso después de terminar, no importa si es un shonen explosivo, un seinen profundo o una historia corta pero intensa; mientras tenga personajes que crezcan y un mundo bien construido, me engancha.
+| 🎮 Videojuegos | ⚔️ Anime | 🎵 Música | 💬 Socializar |
+|:-:|:-:|:-:|:-:|
+| RPG · Shooter · Open World | Shonen · Seinen | Todo género | Sin juicios |
 
-*  Disfruto pasar el rato escuchando canciones de todo género. La música es ese acompañante perfecto mientras programo, juego o simplemente me relajo. Siempre estoy descubriendo canciones nuevas o playlists raras que encajan perfecto con lo que estoy haciendo en el momento.
-
-*  Soy alguien bastante relajado y disfruto mucho conversar, compartir curiosidades o simplemente escuchar lo que otros tienen que decir y me gusta crear un ambiente cómodo, donde las personas puedan ser ellas mismas sin sentirse juzgadas.  
-
+---
 
 ## 🛠️ Tecnologías que uso
 
-<h3>🧩 Lenguajes</h3>
-<p align="left"> 
-<img src="logos/java.svg" width="40" title="Java" /> 
-<img src="logos/javascript.svg" width="50" title="JavaScript" /> 
-<img src="logos/c-plusplus.svg" width="40" title="C++" /> 
-</p>
+<details open>
+<summary>🧩 Lenguajes</summary>
+<br>
 
-<h3>🌐 Desarrollo Web</h3>
-<p align="left"> 
-<img src="logos/html-5.svg" width="40" title="HTML5" /> 
-<img src="logos/css-3.svg" width="40" title="CSS3" /> 
-<img src="logos/tailwindcss-icon.svg" width="50" title="TailwindCSS" /> 
-<img src="logos/bootstrap.svg" width="55" title="Bootstrap" /> 
-</p>
+![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<h3>🗄️ Bases de Datos</h3>
-<p align="left"> 
-<img src="logos/mysql.svg" width="50" title="MySQL" />
-<img src="logos/sql.svg" width="50" title="SQL Server" /> 
-<img src="logos/oracle.svg" width="60" title="Oracle Database" /> 
-</p>
+</details>
 
-<h3>⚙️ Servidores & Backend</h3>
-<p align="left"> 
-<img src="logos/tomcat.svg" width="50" title="Apache Tomcat" />
-<img src="logos/apache.svg" width="20" title="Apache Server" /> 
-<img src="logos/wildfly.svg" width="90" title="Oracle Database" /> 
-</p>
+<details open>
+<summary>🌐 Desarrollo Web</summary>
+<br>
 
-<h3>🛠️ Herramientas & IDEs</h3>
-<p align="left"> 
-<img src="logos/visual-studio-code.svg" width="40" title="VS Code" /> 
-<img src="logos/Apache_NetBeans_Logo.svg" width="40" title="Apache NetBeans" /> 
-<img src="logos/git-icon.svg" width="40" title="Git" /> 
-<img src="logos/figma.svg" width="25" title="Figma" /> 
-<img src="logos/scratch-logo.svg" width="60" title="Scratch" /> 
-<img src="logos/autodesk-inventor-seeklogo.svg" width="40" title="Autodesk Inventor" /> 
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<h3>💻 Sistemas Operativos</h3>
-<p align="left"> 
-<img src="logos/linux-tux.svg" width="40" title="Linux" /> 
-<img src="logos/microsoft-windows-icon.svg" width="40" title="Windows" /> </p>
+</details>
 
-<h3>📦 Otros que uso en mi día a día</h3>
-<p align="left"> 
-<img src="logos/notion-icon.svg" width="40" title="Notion" /> 
-<img src="logos/youtube-icon.svg" width="50" title="YouTube Music" /> 
-<img src="logos/steam.svg" width="40" title="Steam" /> 
+<details open>
+<summary>🗄️ Bases de Datos</summary>
+<br>
 
-### 🏅 Badges
-No sirve de nada, pero a poco no se ve chido :v
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  
-  <a href="https://www.credly.com/badges/3117488b-ef69-4c8c-b6a3-4373d85fda96/public_url" target="_blank" style="margin: 10px;">
-    <img src="badges/ccna-introduction-to-networks.png" width="70px" alt="CCNA: Introduction to Networks">
-  </a>
-  
-  <a href="https://www.credly.com/badges/003abb45-6e58-49a4-a2e5-c3bf8f68a665/public_url" target="_blank" style="margin: 10px;">
-    <img src="badges/ccna-switching-routing-and-wireless-essentials.1.png" width="70px" alt="CCNA: Switching, Routing, and Wireless Essentials">
-  </a>
+![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_DB-f80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-cc2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-  <a href="https://www.credly.com/badges/2f56b8f0-b8ad-4867-b01a-7d1037166014/public_url" target="_blank" style="margin: 10px;">
-    <img src="badges/cyber-threat-management.png" width="70px" alt="Cyber Threat Management">
-  </a>
+</details>
 
-  <a href="https://www.credly.com/badges/7e860ac6-f888-404c-bea4-ff3967ba9200/public_url" target="_blank" style="margin: 10px;">
-    <img src="badges/endpoint-security.png" width="70px" alt="Endpoint Security">
-  </a>
-  
-   <a href="https://www.credly.com/badges/db3773b3-6646-4d17-a98b-5d4f21f792f4/public_url" target="_blank" style="margin: 10px;">
-    <img src="badges/introduction-to-cybersecurity.png" width="70px" alt="Introduction to Cybersecurity">
-  </a>
+<details open>
+<summary>⚙️ Servidores & Backend</summary>
+<br>
 
-   <a href="https://www.credly.com/badges/bbcc0ced-5b3c-4922-aded-719c6c985173/public_url" target="_blank" style="margin: 10px;">
-    <img src="badges/network-defense.png" width="70px" alt="Network Defense">
-  </a>
+![Tomcat](https://img.shields.io/badge/Apache_Tomcat-f8dc75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+![Apache](https://img.shields.io/badge/Apache-d22128?style=for-the-badge&logo=apache&logoColor=white)
+![WildFly](https://img.shields.io/badge/WildFly-262a6d?style=for-the-badge&logo=wildfly&logoColor=white)
+
+</details>
+
+<details open>
+<summary>🛠️ Herramientas & IDEs</summary>
+<br>
+
+![VS Code](https://img.shields.io/badge/VS_Code-007acc?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1b6ac6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f1502f?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+</details>
+
+<details open>
+<summary>💻 Sistemas Operativos</summary>
+<br>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078d4?style=for-the-badge&logo=windows&logoColor=white)
+
+</details>
+
+---
+
+## 🚀 Proyectos Destacados
+
+<div align="center">
+
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [⚠️ Sistema de Sismos](https://github.com/SmitBZ/Proyecto-de-Sistema-de-Sismos) | Red CLI colaborativa que reporta sismos y gestiona información en tiempo real | `Java` `Sockets` |
+| [🏫 Colegio Amigos School](https://github.com/SmitBZ/Gestion-de-Colegio-Amigos-School) | Software de gestión escolar con frontend y backend completo | `Java` `MySQL` |
+| [💊 Botica Luhfarma](https://github.com/SmitBZ/Botica-Luhfarma) | Inventario y POS con control de productos, clientes y roles de empleados | `Java` |
+| [💬 Latin Chat](https://github.com/SmitBZ/Mensajeria-Latin-Chat) | App de chat P2P implementando Sockets para comunicación en red | `Java` `Sockets` |
+
 </div>
 
-### 🚀 Proyectos Destacados
+---
 
-<br>
+## 🏅 Certificaciones Cisco
 
-#### ⭐ Proyecto de Sistema de Sismos
-- **Descripción:** Aplicación colaborativa por línea de comandos, simulando una red que reporta sismos y gestiona información.
-- **Enfoque:** Demostración de lógica compleja y manejo de datos en tiempo real.
-- **Tecnologías:** `Java`
-- **Link al Repositorio:** [Proyecto-de-Sistema-de-Sismos](https://github.com/SmitBZ/Proyecto-de-Sistema-de-Sismos)
+> No sirve de nada... pero a poco no se ve chido 😂
 
-<br>
+<div align="center">
 
-#### ✅ Sistema de Gestión Escolar (Colegio Amigos School)
-- **Descripción:** Software robusto para la gestión de alumnos, personal y horarios de una institución educativa.
-- **Enfoque:** Uso de formularios para una interfaz amigable (Front-end) y manejo de bases de datos para persistencia (Back-end).
-- **Tecnologías:** `Java`, `MySQL`
-- **Link al Repositorio:** [Gestion-de-Colegio-Amigos-School](https://github.com/SmitBZ/Gestion-de-Colegio-Amigos-School)
+[![CCNA Intro](https://img.shields.io/badge/CCNA%3A_Intro_to_Networks-1ba0e1?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/3117488b-ef69-4c8c-b6a3-4373d85fda96/public_url)
+[![CCNA Switching](https://img.shields.io/badge/CCNA%3A_Switching_%26_Routing-1ba0e1?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/003abb45-6e58-49a4-a2e5-c3bf8f68a665/public_url)
+[![Cyber Threat](https://img.shields.io/badge/Cyber_Threat_Management-e4444c?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/2f56b8f0-b8ad-4867-b01a-7d1037166014/public_url)
+[![Endpoint Security](https://img.shields.io/badge/Endpoint_Security-e4444c?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/7e860ac6-f888-404c-bea4-ff3967ba9200/public_url)
+[![Intro Cyber](https://img.shields.io/badge/Intro_to_Cybersecurity-e4444c?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/db3773b3-6646-4d17-a98b-5d4f21f792f4/public_url)
+[![Network Defense](https://img.shields.io/badge/Network_Defense-e4444c?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/bbcc0ced-5b3c-4922-aded-719c6c985173/public_url)
 
-<br>
+</div>
 
-#### 💊 Botica Luhfarma
-- **Descripción:** Sistema de inventario y punto de venta que controla productos, clientes y roles de empleados.
-- **Enfoque:** Simulación de un entorno de negocios con funcionalidades CRUD.
-- **Tecnologías:** `Java`
-- **Link al Repositorio:** [Botica-Luhfarma](https://github.com/SmitBZ/Botica-Luhfarma)
+---
 
-<br>
+## 📊 Mis Estadísticas de GitHub
 
-#### 💬 Mensajería Latin Chat
-- **Descripción:** Aplicación de chat simple para practicar la comunicación de red.
-- **Enfoque:** Implementación de Sockets para comunicación P2P.
-- **Tecnologías:** `Java`
-- **Link al Repositorio:** [Mensajeria-Latin-Chat](https://github.com/SmitBZ/Mensajeria-Latin-Chat)
+<div align="center">
 
+[![SmitBZ GitHub Stats](https://github-readme-stats.vercel.app/api?username=SmitBZ&show_icons=true&theme=github_dark&rank_icon=percentile&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=388bfd&text_color=c9d1d9)](https://github.com/SmitBZ)
 
-### 📌 Mis Estadísticas de GitHub
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmitBZ&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/SmitBZ)
 
-[![SmitBZ GitHub Stats](https://github-readme-stats.vercel.app/api?username=SmitBZ&show_icons=true&theme=dark&rank_icon=percentile)](https://github.com/SmitBZ) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmitBZ&layout=compact&theme=dark)](https://github.com/SmitBZ)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SmitBZ&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=388bfd&currStreakLabel=58a6ff)](https://github.com/SmitBZ)
 
-### 🗓️ Mi Actividad de Commits
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SmitBZ&theme=react-dark&bg_color=0d1117&color=58a6ff&line=388bfd&point=79c0ff&hide_border=true)](https://github.com/SmitBZ)
 
-[![SmitBZ Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=SmitBZ&theme=react-dark)](https://github.com/SmitBZ)
+</div>
 
+---
 
-## 🌐 Redes sociales
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <a href="https://x.com/Smit_BZ_20" target="_blank" style="margin: 10px;">
-    <img src="logos/twitter.svg" width="50px" alt="Twitter">
-  </a>
-  <a href="www.linkedin.com/in/smitbz" target="_blank" style="margin: 10px;">
-    <img src="logos/linkedin-icon.svg" width="50px" alt="linkdin">
-  </a>
-  <a href="https://www.reddit.com/user/SmitBZ/" target="_blank" style="margin: 10px;">
-    <img src="logos/reddit-icon.svg" width="50px" alt="redit">
-  </a>
+## 🌐 Redes Sociales
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Smit_BZ_20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smitbz)
+[![Reddit](https://img.shields.io/badge/Reddit-ff4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/SmitBZ/)
+
+</div>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,100:1f6feb&height=100&section=footer&animation=fadeIn)
+
+*Gracias por visitar mi perfil ✨ — Siempre aprendiendo, siempre creciendo*
+
 </div>
